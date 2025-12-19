@@ -10,8 +10,13 @@ The insights derived from this analysis can help businesses identify high-risk c
 🔹 Tech Stack
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook
